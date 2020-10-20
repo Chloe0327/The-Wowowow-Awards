@@ -1,0 +1,52 @@
+h1{
+    font-family: 'Permanent Marker', cursive;
+    color: orange;
+    font-size: 70px;
+    text-align: center;
+    text-shadow: 2px 2px #ff0000;
+    
+}
+h2{
+    background-color:orange;
+    font-family: 'Monoton', cursive;
+    color:blue;
+    font-size:45px;
+    text-align:center;
+    border: 15px groove yellow;
+    }
+p{
+    font-family: 'Calistoga', cursive;
+    color:navy;
+    font-size:30px;
+    text-align:center;
+     text-decoration: underline;
+  text-decoration-color: BlueViolet ;
+  background-color: lightyellow  ;
+  border:ridge blue;
+  }
+  
+body{
+    background-image: url("https://img.88tph.com/production/20180510/12522298-1.jpg!/watermark/url/L3BhdGgvbG9nby5wbmc/align/center");
+ background-color: #cccccc;
+    text-align:center;}
+    .movie{
+        color: orange;}
+        .actor{
+            color:lightblue;}
+            .Game{
+                color:green;}
+                .Person{
+                    color:brown;}
+
+  .oval {
+  height: 450px;
+  width: 850px;
+  background-color: #555;
+  border-radius: 200%;
+  border-style:dotted dashed solid double;
+  border-color: orange;
+  border-width:10px;
+  
+  }
+
+            
